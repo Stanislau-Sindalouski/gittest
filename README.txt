@@ -1,10 +1,2 @@
-
-another comment123++++
-____
-+++++++++++++asdasddas
--------------
-*************asdasd
-sdassdasd
-qewqw
-qweqw
-qweqwe
+First test commit
+Second one
